@@ -1,0 +1,8 @@
+version: 2
+
+sources:
+  - name: PC_HEVODATA_DB
+    tables:
+      - name: pgsql_raw_customers
+      - name: pgsql_raw_orders
+      - name: pgsql_raw_payments
