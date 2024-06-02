@@ -1,0 +1,3 @@
+models:
+  hevodata:
+    materialized: view
